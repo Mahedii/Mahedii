@@ -1,14 +1,12 @@
-
-<!--
-**Mahedii/Mahedii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<!-- Replace with your name and optional introduction -->
 # Hi, I'm Md. Mahadi Islam 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/mahedii?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/mahedii?label=Stars&style=social)
 ![profile count](https://komarev.com/ghpvc/?username=mahedii&color=red)&nbsp;
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-mahadi-islam-160b331b8/?originalSubdomain=bd)
+[![Portfolio Website Badge](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio-website-url.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Send-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mahediihasan220@gmail.com)
 
 ## About Me
 
@@ -17,11 +15,7 @@
 🕕 2+ years of work experience. \
 🌍 Dhaka, Bangladesh. \
 🎓 Graduated from East West University (B.Sc, CSE, Spring-16). \
-📫 Mail me at: <a href="mailto:mahediihasan220@gmail.com">mahediihasan220@gmail.com</a>. \
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-mahadi-islam-160b331b8/?originalSubdomain=bd)
-[![Portfolio Website Badge](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio-website-url.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Send-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mahediihasan220@gmail.com)
+📫 Mail me at: <a href="mailto:mahediihasan220@gmail.com">mahediihasan220@gmail.com</a>.
 
 
 ## 🔧 Technologies & Tools
@@ -49,10 +43,9 @@
 
 - [Project 1](https://github.com/mahedii/SimonGame): Short description of Project 1. -->
 
-## 🌱 Currently Learning
+<!-- ## 🌱 Currently Learning
 
-<!-- Mention what you are currently learning or exploring -->
-I'm currently focused on improving my skills in [technology or framework].
+I'm currently focused on improving my skills in [technology or framework]. -->
 
 ## 🤝 Connect with Me
 Let's connect and collaborate! Feel free to reach out to me via:
@@ -69,9 +62,7 @@ Let's connect and collaborate! Feel free to reach out to me via:
 
 <!-- Add interactive badges to display your GitHub stats, followers, and more -->
 <!-- ![GitHub contributions](https://img.shields.io/github/last-commit/mahedii/yourrepository?label=Contributions) -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahedii&theme=dracula)
+<!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahedii&theme=dracula) -->
 
 <!-- Add a CTA (Call to Action) for others to connect with you -->
 I'm always excited to collaborate on new projects or discuss opportunities. Feel free to reach out to me through any of the links above!
-
-
