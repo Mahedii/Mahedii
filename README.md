@@ -12,12 +12,12 @@
 
 ## About Me
 
-🌟 Junior Software Engineer, Web Developer, Freelancer
-💼 Junior Software Engineer at Adventure Dhaka Limited
-🕕 2+ years of work experience
-🌍 Dhaka, Bangladesh
-🎓 Graduated from East West University (B.Sc, CSE, Spring-16)
-📫 Mail me at: <a href="mailto:mahediihasan220@gmail.com">mahediihasan220@gmail.com</a>
+🌟 Junior Software Engineer, Web Developer, Freelancer. \
+💼 Junior Software Engineer at Adventure Dhaka Limited. \
+🕕 2+ years of work experience. \
+🌍 Dhaka, Bangladesh. \
+🎓 Graduated from East West University (B.Sc, CSE, Spring-16). \
+📫 Mail me at: <a href="mailto:mahediihasan220@gmail.com">mahediihasan220@gmail.com</a>. \
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-mahadi-islam-160b331b8/?originalSubdomain=bd)
 [![Portfolio Website Badge](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio-website-url.com)
@@ -68,9 +68,6 @@ Let's connect and collaborate! Feel free to reach out to me via:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mahedii&show_icons=true&locale=en&layout=compact)
 
 <!-- Add interactive badges to display your GitHub stats, followers, and more -->
-![GitHub followers](https://img.shields.io/github/followers/mahedii?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/mahedii?label=Stars&style=social)
-![profile count](https://komarev.com/ghpvc/?username=mahedii&color=red)&nbsp;
 <!-- ![GitHub contributions](https://img.shields.io/github/last-commit/mahedii/yourrepository?label=Contributions) -->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahedii&theme=dracula)
 
