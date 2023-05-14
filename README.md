@@ -5,13 +5,13 @@
 ![profile count](https://komarev.com/ghpvc/?username=mahedii&color=red)&nbsp;
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-mahadi-islam-160b331b8/?originalSubdomain=bd)
-[![Portfolio Website Badge](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio-website-url.com)
+[![Portfolio Website Badge](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://mahadiislam.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Send-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mahediihasan220@gmail.com)
 
-## About Me
+## 🙋🏻‍♂️ About Me
 
 🌟 Junior Software Engineer, Web Developer, Freelancer. \
-💼 Junior Software Engineer at Adventure Dhaka Limited. \
+💼 Adventure Dhaka Limited. \
 🕕 2+ years of work experience. \
 🌍 Dhaka, Bangladesh. \
 🎓 Graduated from East West University (B.Sc, CSE, Spring-16). \
@@ -56,9 +56,9 @@ Let's connect and collaborate! Feel free to reach out to me via:
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahedii&show_icons=true&theme=radical)
 ![Your Name's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mahedii&)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mahedii&show_icons=true&locale=en&layout=compact)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahedii&show_icons=true&theme=radical)
 
 <!-- Add interactive badges to display your GitHub stats, followers, and more -->
 <!-- ![GitHub contributions](https://img.shields.io/github/last-commit/mahedii/yourrepository?label=Contributions) -->
