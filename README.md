@@ -6,36 +6,25 @@
 <!-- Replace with your name and optional introduction -->
 # Hi, I'm Md. Mahadi Islam 👋
 
+![GitHub followers](https://img.shields.io/github/followers/mahedii?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/mahedii?label=Stars&style=social)
+![profile count](https://komarev.com/ghpvc/?username=mahedii&color=red)&nbsp;
+
 ## About Me
 
-- 🌟 Junior Software Engineer, Web Developer, Freelancer
-- 💼 Junior Software Engineer at Adventure Dhaka Limited
-- 🕕 2+ years of work experience
-- 🌍 Dhaka, Bangladesh
-- 🎓 Graduated from East West University (B.Sc, CSE, Spring-16)
-- 📫 Mail me at: <a href="mailto:mahediihasan220@gmail.com">mahediihasan220@gmail.com</a>
+🌟 Junior Software Engineer, Web Developer, Freelancer
+💼 Junior Software Engineer at Adventure Dhaka Limited
+🕕 2+ years of work experience
+🌍 Dhaka, Bangladesh
+🎓 Graduated from East West University (B.Sc, CSE, Spring-16)
+📫 Mail me at: <a href="mailto:mahediihasan220@gmail.com">mahediihasan220@gmail.com</a>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-mahadi-islam-160b331b8/?originalSubdomain=bd)
 [![Portfolio Website Badge](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio-website-url.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Send-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mahediihasan220@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=[YOUR_LINKEDIN_PROFILE])](https://www.linkedin.com/in/md-mahadi-islam-160b331b8/?originalSubdomain=bd)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&link=[YOUR_PORTFOLIO_URL])](https://www.mahadiislam.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=gmail&logoColor=white&link=[mailto:mahediihasan220@gmail.com])](mailto:mahediihasan220@gmail.com)
-
-
-<!-- Replace with a catchy tagline or short bio -->
-I'm a passionate software developer with expertise in [your areas of expertise].
-
-<!-- Add a visually appealing banner or GIF to make it more attractive -->
-![Banner](path/to/banner-image.gif)
 
 ## 🔧 Technologies & Tools
-
-<!-- List the technologies and tools you're proficient in -->
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
@@ -70,19 +59,13 @@ Let's connect and collaborate! Feel free to reach out to me via:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-mahadi-islam-160b331b8/?originalSubdomain=bd)
 [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail)](mailto:mahediihasan220@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=dev.to)](https://mahadiislamo.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=dev.to)](https://mahadiislam.com)
 
 ## 📊 GitHub Stats
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahedii&show_icons=true&theme=radical)
-
-<p>  
-    <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=mahedii&show_icons=true&locale=en" alt="mahedii" />
-    <img  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahedii&" alt="mahedii" />
-</p>
-
-<p><img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahedii&show_icons=true&locale=en&layout=compact" alt="mahedii" /></p>
-
+![Your Name's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mahedii&)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mahedii&show_icons=true&locale=en&layout=compact)
 
 <!-- Add interactive badges to display your GitHub stats, followers, and more -->
 ![GitHub followers](https://img.shields.io/github/followers/mahedii?label=Followers&style=social)
@@ -94,9 +77,4 @@ Let's connect and collaborate! Feel free to reach out to me via:
 <!-- Add a CTA (Call to Action) for others to connect with you -->
 I'm always excited to collaborate on new projects or discuss opportunities. Feel free to reach out to me through any of the links above!
 
-<!-- Some inspiration for interactive elements: -->
 
-<!-- Embed an interactive code snippet -->
-```javascript
-const greeting = "Hello, World!";
-console.log(greeting);
