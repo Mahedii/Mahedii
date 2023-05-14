@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=[YOUR_LINKEDIN_PROFILE])](https://www.linkedin.com/in/md-mahadi-islam-160b331b8/?originalSubdomain=bd)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&link=[YOUR_PORTFOLIO_URL])](https://www.mahadiislam.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=gmail&logoColor=white&link=[mahediihasan220@gmail.com])](mahediihasan220@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=gmail&logoColor=white&link=[mailto:mahediihasan220@gmail.com])](mailto:mahediihasan220@gmail.com)
 
 
 <!-- Replace with a catchy tagline or short bio -->
@@ -68,24 +68,12 @@ I'm a passionate software developer with expertise in [your areas of expertise].
 <!-- Mention what you are currently learning or exploring -->
 I'm currently focused on improving my skills in [technology or framework].
 
-## 📫 Get in Touch
-
-<!-- Provide ways to contact you -->
-Feel free to reach out to me through the following platforms:
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/md-mahadi-islam-160b331b8/?originalSubdomain=bd)
-- Email: [mahediihasan220@gmail.com]
-
-<!-- Add a visually appealing image or GIF to make it more attractive -->
-![Image](path/to/your-image.gif)
-
-
 
 ## 🤝 Connect with Me
 Let's connect and collaborate! Feel free to reach out to me via:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-mahadi-islam-160b331b8/?originalSubdomain=bd)
-[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail)](mahediihasan220@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail)](mailto:mahediihasan220@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=dev.to)](https://mahadiislamo.com)
 
 ## 📊 GitHub Stats
@@ -95,6 +83,7 @@ Let's connect and collaborate! Feel free to reach out to me via:
 <!-- Add interactive badges to display your GitHub stats, followers, and more -->
 ![GitHub followers](https://img.shields.io/github/followers/mahedii?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/mahedii?label=Stars&style=social)
+![profile count](https://komarev.com/ghpvc/?username=mahedii&color=red)&nbsp;
 <!-- ![GitHub contributions](https://img.shields.io/github/last-commit/mahedii/yourrepository?label=Contributions) -->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahedii&theme=dracula)
 
